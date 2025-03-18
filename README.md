@@ -1,2 +1,2 @@
 # intro_to_ejs
-A fundamental study of EJS
+A fundamental studies on EJS
